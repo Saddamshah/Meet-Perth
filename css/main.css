@@ -202,7 +202,7 @@ body{
 }
 /* footer end */
 
-@media (max-width: 720px){
+@media (max-width: 640px){
    #landing-section-text {
       padding-top: 40px;
    }
